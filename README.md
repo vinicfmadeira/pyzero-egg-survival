@@ -16,9 +16,9 @@ Egg Survival é um jogo de ação e sobrevivência 2D desenvolvido com a bibliot
 
 ## Como Jogar
 
-1.  Clone este repositório para sua máquina local.
+1.  Baixe a pasta EggRogue.
 2.  Certifique-se de ter o Pygame Zero instalado (`pip install pgzero`).
-3.  Execute o arquivo principal do jogo.
+3.  Execute o arquivo principal do jogo, utilizando python game.py.
 4.  No menu principal, clique em "PLAY" para iniciar o jogo.
 5.  Use as teclas **W, A, S, D** para mover o ovo.
 6.  Use as **setas do teclado (↑, ↓, ←, →)** para atirar gemas nos inimigos.
